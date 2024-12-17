@@ -118,6 +118,6 @@ sections:
       text:
         textAlign: left
     text: >
-      Interested in collaborating? Feel free to reach out via email or connect
-      with me on social media—I’d love to hear from you!
+      **Interested in collaborating? Feel free to reach out via email or connect
+      with me on social media—I’d love to hear from you!**
 ---
