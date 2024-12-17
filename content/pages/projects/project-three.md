@@ -14,4 +14,4 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
-![](/images/ArmFlowers.jpg)
+![](/images/ArmFlowers.jpg)![](/images/BerserkTattoo.png)![](/images/Candles.png)![](/images/Chicken.jpg)![](/images/Cubone.jpg)![](/images/DeathTarrot.jpg)![](/images/Gengar2.png)![](/images/Geometry.jpg)![](/images/MoonTattoo.png)![](/images/RibFlowers.jpg)![](/images/sketch1734179235870.png)
