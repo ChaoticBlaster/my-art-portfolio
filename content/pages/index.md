@@ -87,7 +87,9 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: >-
+      Interested in collaborating? Feel free to reach out via email or connect
+      with me on social media—I’d love to hear from you!
     form:
       type: FormBlock
       elementId: sign-up-form
