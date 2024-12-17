@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: I’m a digital and visual artist exploring creativity in multiple forms.
     subtitle: >-
       From painting and sketching to 3D modeling, game development, sound design
