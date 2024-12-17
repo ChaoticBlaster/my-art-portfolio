@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: Εκθεση The horde
 description: >-
   Escape the horde is a video game project that i made for the exhibition [The
-  horde]
+  horde] in okay space
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
