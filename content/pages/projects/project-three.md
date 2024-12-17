@@ -15,7 +15,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/50f5e7f7-d304-4a7a-8da0-02623aba7c37.png
         altText: Image one
         caption: Image one caption
         elementId: ''
