@@ -4,7 +4,9 @@ title: Escape the horde
 colors: colors-a
 date: '2021-12-20'
 client: Εκθεση The horde
-description: Escape the horde is a video game project that i made for the exhibition
+description: >-
+  Escape the horde is a video game project that i made for the exhibition [The
+  horde]
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
