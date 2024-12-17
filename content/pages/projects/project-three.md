@@ -14,5 +14,5 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
-<div style="text-align: center"># ![](https://preview--chrissolomosart-017f9.stackbit.dev/images/ArmFlowers.jpg)![](https://preview--chrissolomosart-017f9.stackbit.dev/images/BerserkTattoo.png)![](https://preview--chrissolomosart-017f9.stackbit.dev/images/Candles.png)![](/images/Chicken.jpg)![](/images/Cubone.jpg)![](/images/DeathTarrot.jpg)![](/images/Gengar2.png)![](/images/Geometry.jpg)![](/images/MoonTattoo.png)![](/images/RibFlowers.jpg)![](https://preview--chrissolomosart-017f9.stackbit.dev/images/sketch1734179235870.png)</div>
+<div style="text-align: center">#</div>
 
