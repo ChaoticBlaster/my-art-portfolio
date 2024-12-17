@@ -14,11 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a digital and visual artist, exploring creativity across multiple
-      disciplines,  From painting and sketching to 3D modeling, game
-      development, and sound design, I craft experiences that blur the lines
-      between art and technology. This site is a showcase of my journey through
-      diverse mediums and creative expressions."
+      I’m a digital and visual artist exploring creativity across multiple
+      disciplines. From painting and sketching to 3D modeling, game development,
+      and sound design, I craft experiences that blur the lines between art and
+      technology. This site is a showcase of my journey through diverse mediums
+      and creative expressions."
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
