@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: I’m a digital and visual artist exploring creativity in multiple forms.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      From painting and sketching to 3D modeling, game development, sound design
+      and more. This site is a showcase of my journey through diverse mediums
+      and creative expressions."
     styles:
       self:
         height: auto
