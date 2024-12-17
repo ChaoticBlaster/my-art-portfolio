@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: I’m a digital and visual artist exploring creativity in multiple forms.
     subtitle: >-
       From painting and sketching to 3D modeling, game development, sound design
@@ -37,7 +37,7 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
-        fontWeight: 400
+        fontWeight: 500
       subtitle:
         textAlign: left
       text:
@@ -87,44 +87,11 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: ''
     form:
       type: FormBlock
       elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
+      fields: []
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
@@ -150,4 +117,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >+
+      # **Interested in collaborating? Feel free to reach out via email or
+      connect with me on social media—I’d love to hear from you!**
+
 ---

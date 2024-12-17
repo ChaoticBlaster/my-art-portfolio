@@ -12,11 +12,11 @@
     "onComplementary": "#FBFFF2",
     "fontBody": "fontPrimary",
     "h1": {
-        "size": "6xl",
+        "size": "5xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tight"
     },
     "h2": {
         "size": "5xl",
@@ -40,17 +40,17 @@
         "letterSpacing": "normal"
     },
     "h5": {
-        "size": "xl",
+        "size": "sm",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
     },
     "h6": {
-        "size": "lg",
+        "size": "xs",
         "weight": "medium",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "capitalize",
         "letterSpacing": "normal"
     },
     "buttonPrimary": {
