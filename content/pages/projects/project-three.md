@@ -7,7 +7,7 @@ client: ''
 description: A portfolio of my tattoo projects and tattoo designs.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/GoatDesign.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
