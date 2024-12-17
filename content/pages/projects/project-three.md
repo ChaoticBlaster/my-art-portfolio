@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: Designs
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
