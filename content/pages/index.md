@@ -28,7 +28,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
+          - pt-5
           - pb-48
           - pl-4
           - pr-4
@@ -117,8 +117,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: >+
+    text: >
       # **Interested in collaborating? Feel free to reach out via email or
       connect with me on social media—I’d love to hear from you!**
-
 ---
