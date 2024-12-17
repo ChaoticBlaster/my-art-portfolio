@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       From painting and sketching to 3D modeling, game development, sound design
       and more. This site is a showcase of my journey through diverse mediums
-      and creative expressions."
+      and creative expressions.
     styles:
       self:
         height: auto
