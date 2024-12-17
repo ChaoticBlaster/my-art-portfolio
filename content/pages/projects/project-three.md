@@ -18,7 +18,9 @@ bottomSections:
         url: /images/50f5e7f7-d304-4a7a-8da0-02623aba7c37.png
         altText: Image one
         caption: Image one caption
-        elementId: ''
+        elementId: >-
+          img {    object-fit: contain; /* Or "cover" or "scale-down" depending
+          on your needs */    width: auto;    height: auto;}
       - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
